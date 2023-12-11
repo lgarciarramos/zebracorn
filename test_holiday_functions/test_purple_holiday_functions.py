@@ -57,7 +57,8 @@ assert not brings_figgy_pudding(5, 8, 2, 0) # even though 0 quizzes means the st
 
 
 # Luisa
-
+assert in_the_holiday_spirit(7,8)
+assert naughty_or_nice(5,1) 
 
 
 # Newton
